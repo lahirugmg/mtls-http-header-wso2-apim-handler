@@ -21,5 +21,4 @@ public class MutualSSLCertificateHandler extends AbstractHandler {
     private boolean processRequest(MessageContext messageContext) {
         return true;
     }
-
 }
